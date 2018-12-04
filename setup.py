@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name="PyPardot4",
+    name="PyPardot4-tronok",
     version="1.1.5",
     author="Matt Needham",
     author_email="matthew.m.needham@gmail.com",
